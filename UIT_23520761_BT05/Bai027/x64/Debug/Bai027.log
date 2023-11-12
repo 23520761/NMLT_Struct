@@ -1,0 +1,10 @@
+﻿  Bai027.cpp
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_235207613_BT05\Bai027\Bai027.cpp(18,10): error C2079: 'g' uses undefined struct 'DonThuc'
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_235207613_BT05\Bai027\Bai027.cpp(19,2): error C2664: 'void Nhap(DONTHUC &)': cannot convert argument 1 from 'int' to 'DONTHUC &'
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_235207613_BT05\Bai027\Bai027.cpp(13,6): message : see declaration of 'Nhap'
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_235207613_BT05\Bai027\Bai027.cpp(19,2): message : while trying to match the argument list '(int)'
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_235207613_BT05\Bai027\Bai027.cpp(21,2): error C2664: 'void Xuat(DONTHUC)': cannot convert argument 1 from 'int' to 'DONTHUC'
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_235207613_BT05\Bai027\Bai027.cpp(21,7): message : use of undefined type 'DonThuc'
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_235207613_BT05\Bai027\Bai027.cpp(11,16): message : see declaration of 'DonThuc'
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_235207613_BT05\Bai027\Bai027.cpp(14,6): message : see declaration of 'Xuat'
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_235207613_BT05\Bai027\Bai027.cpp(21,2): message : while trying to match the argument list '(int)'

@@ -1,0 +1,5 @@
+﻿  Bai011.cpp
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_235207613_BT05\Bai011\Bai011.cpp(36,2): error C2661: 'Nhap': no overloaded function takes 2 arguments
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_235207613_BT05\Bai011\Bai011.cpp(36,2): message : while trying to match the argument list '(HOPSUA [100], int)'
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_235207613_BT05\Bai011\Bai011.cpp(37,2): error C2661: 'Xuat': no overloaded function takes 2 arguments
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_235207613_BT05\Bai011\Bai011.cpp(37,2): message : while trying to match the argument list '(HOPSUA [100], int)'

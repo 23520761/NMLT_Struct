@@ -1,0 +1,4 @@
+﻿  Bai143.cpp
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_235207613_BT05\Bai143\Bai143.cpp(80,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_235207613_BT05\Bai143\Bai143.cpp(85,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Bai143.vcxproj -> D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_235207613_BT05\x64\Debug\Bai143.exe

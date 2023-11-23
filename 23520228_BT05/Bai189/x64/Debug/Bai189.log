@@ -1,0 +1,6 @@
+﻿  Bai189.cpp
+C:\Users\Admin\Desktop\làm bài lập trình\KieuCauTruc\Bai189\Bai189.cpp(58): warning C4715: 'SoSanh': not all control paths return a value
+Bai189.obj : error LNK2019: unresolved external symbol "int __cdecl ktAm(struct phanso)" (?ktAm@@YAHUphanso@@@Z) referenced in function "int __cdecl TimViTri(struct phanso * const,int)" (?TimViTri@@YAHQEAUphanso@@H@Z)
+    Hint on symbols that are defined and could potentially match:
+      "int __cdecl ktAm(int)" (?ktAm@@YAHH@Z)
+C:\Users\Admin\Desktop\làm bài lập trình\KieuCauTruc\x64\Debug\Bai189.exe : fatal error LNK1120: 1 unresolved externals
